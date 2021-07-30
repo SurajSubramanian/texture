@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: surajsubramanian.github.io
+Token: f0e45e47199b79e16f1e2418954a2d3e03fb5e42253041151a838f1124eebc6d
